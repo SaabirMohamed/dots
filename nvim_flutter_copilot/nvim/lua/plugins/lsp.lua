@@ -11,7 +11,7 @@ return {
 				"shfmt",
 				"tailwindcss-language-server",
 				"typescript-language-server",
-				"dartls",
+				-- "dartls",
 				"css-lsp",
 			})
 		end,
